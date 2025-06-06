@@ -1,3 +1,6 @@
+###The link to the csv file: https://drive.google.com/file/d/1VyF89M3HMjJ6YjQSs97zFecbmGYqi9Ti/view?usp=drive_link
+
+
 # Car Price Prediction Model
 
 Acest proiect implementează un model de Machine Learning pentru predicția prețurilor mașinilor second-hand folosind Random Forest Regressor.
